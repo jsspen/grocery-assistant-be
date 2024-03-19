@@ -1,1 +1,2 @@
-# grocery-assistant-ui
+# Grocery Assistant
+Coming soon.
